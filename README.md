@@ -165,4 +165,16 @@ issue or pull request:
 
 This project is released under the MIT License. See [LICENSE](LICENSE).
 
-Made with Python and a little love. ❤️
+## Acknowledgments
+- **GCC Compiler**: For compiling the C program.
+- **Python Software Foundation**: For providing the Python programming language.
+- **Visual Studio Code**: For being an excellent code editor.
+- **Shields.io**: For the beautiful badges used in this README.
+
+---
+> **Note:** This README.md file was created with the help of AI. While every effort has been made to ensure accuracy and clarity, there may still be minor errors or inconsistencies. Users are encouraged to review the content carefully and make any necessary adjustments.
+
+<div align="center">
+  <p>Made with ❤️ by <a href="https://github.com/0PKunal">0PKunal</a></p>
+  <p>If this project helped you, please give it a ⭐️</p>
+</div>
